@@ -38,11 +38,11 @@ copyright: © DamskoRP 2022
 plugins:
   - search:
       lang: nl
-  - git-revision-date-localized:
-      type: timeago
-      timezone: Europe/Amsterdam
-      locale: nl
-      fallback_to_build_date: false
+  # - git-revision-date-localized:
+  #     type: timeago
+  #     timezone: Europe/Amsterdam
+  #     locale: nl
+  #     fallback_to_build_date: false
 
 markdown_extensions:
   - attr_list
