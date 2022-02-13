@@ -1,5 +1,56 @@
 site_name: Wetboek DamskoRP
-theme:
-  language: nl
+site_url: http://regels.damsko-rp.nl
+site_author: 'DamskoRP'
+
+nav:
+  - Home: home.md
+  - Algemene regels: algemeen.md
+  - Ingame regels: wetboek.md
+  - Streamer regels: streamers.md
+  - Discord regels: discord.md
+
 theme:
   name: material
+  language: nl
+  logo: images/damsko-logo2.png
+  favicon: images/favicon.png
+  palette:
+      # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep blue
+      accent: deep blue
+      toggle:
+        icon: material/weather-sunny
+        name: Donkere Modus
+
+      # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep blue
+      accent: deep blue
+      toggle:
+        icon: material/weather-night
+        name: Lichte Modus
+
+copyright: © DamskoRP 2022
+
+plugins:
+  - search:
+      lang: nl
+  - git-revision-date-localized:
+      type: timeago
+      timezone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
+
+markdown_extensions:
+  - attr_list
+  - tables
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://dsc.gg/damsko-rp
+    - icon: fontawesome/solid/globe
+      link: https://www.damsko-rp.nl
