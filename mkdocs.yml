@@ -1,3 +1,5 @@
 site_name: Wetboek DamskoRP
 theme:
+  language: nl
+theme:
   name: material
