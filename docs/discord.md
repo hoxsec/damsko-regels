@@ -54,7 +54,7 @@ Er zijn verschillende straffen afhankelijk van de gebroken regel.
 
 Afhankelijk van de medewerking tijdens bespreking van de straf, zal een straf worden toegepast als hieronder weergegeven. Houdt rekening met het feit dat meerdere straffen kunnen worden toegepast binnen een zelfde zaak. Middels de logs houden wij een reëel beeld en passen wij een straf toe afhankelijk van het gedrag.
 
-| Aantal  | Afhankelijke straf                          |
+| Aantal  | Afhankelijke straf |
 | :----------   | :-------------------- |
 | `1x`           | 1 dag verbannen  |
 | `2x`           | 3 dagen verbannen |
