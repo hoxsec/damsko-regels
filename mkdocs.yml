@@ -3,7 +3,7 @@ site_url: http://regels.damsko-rp.nl
 site_author: 'DamskoRP'
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Algemene regels: algemeen.md
   - Ingame regels: wetboek.md
   - Streamer regels: streamers.md
