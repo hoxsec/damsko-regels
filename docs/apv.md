@@ -620,7 +620,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://DamskoRP.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
+![bijlage-1](img/bijlagen1.webp)
 
 ---------------------
 APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “DamskoRP”, opgetekend door Bram Mosterdfiets, te DamskoRP.
