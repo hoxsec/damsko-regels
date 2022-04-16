@@ -4,15 +4,25 @@ site_author: 'DamskoRP'
 
 nav:
   - Home: index.md
-  - Algemene regels: algemeen.md
-  - Ingame regels: wetboek.md
-  - Discord regels: discord.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
+  - Risicogebieden: risico-gebieden.md
+  - Douanegebieden: douanegebieden.md
+  - NOTAM: notam.md
+  - Belastingen: belastingen.md
+  - Streamen op DamskoRP: streamen.md
+  - Offroad Voertuigen: offroadvoertuigen.md
+  - Kosten:
+    - Ambulance: kosten/ambulance.md
+    - ANWB: kosten/anwb.md
+    - Politie: kosten/politie.md
+    - Vliegschool: kosten/vliegschool.md
 
 theme:
   name: material
   language: nl
-  logo: images/damsko-logo2.png
-  favicon: images/favicon.png
+  logo: img/damsko-logo2.png
+  favicon: img/favicon.png
   palette:
       # Light mode
     - media: "(prefers-color-scheme: light)"

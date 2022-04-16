@@ -1,13 +1,21 @@
 # Wet- en Regelgeving DamskoRP
 
-Welkom op de website waar alle regels te vinden zijn die te maken hebben met DamskoRP en de services die daarin gebruikt wordt. 
+Welkom op de pagina voor de Wet- en Regelgeving van DamskoRP!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op DamskoRP.
 
-Aan de linker kant kun je keuze maken uit verschillende pagina's. Wanneer je een keuze hebt gemaakt kun je aan de rechterkant kiezen uit een alinea. Ben je op zoek naar iets? Gebruik dan de zoekbalk bovenin je scherm!
+Zorg ervoor, dat je voor je deelneemt aan DamskoRP, kennis hebt genomen van deze wetten.
 
-Mis je iets, of heb je ergens een vraag over? Maak dan een ticket aan in onze Discord.
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
+- Het Wetboek DamskoRP bevat alle wetten voor de burgers.
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
-[Discord](https://dsc.gg/damsko-rp){ .md-button .md-button--primary }
+## Officiële discord servers
 
-Zodra je de server op FiveM joint of de 🍔burger-rol in discord hebt ontvangen, ben je akkoord met deze regels.
+DamskoRP heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
-**N.B.:** Het wetboek kan t.a.t. gewijzigd worden!
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|DamskoRP RolePlay| Main discord server van DamskoRP | [Invite](https://dsc.gg/damsko-rp) |
+|DamskoRP Support| Support discord server van DamskoRP | [Invite](https://dsc.gg/damsko-rp) |
+|DamskoRP Hulpdiensten| Hulpdiensten discord server van DamskoRP | [Invite](https://discord.gg/sg6zVBr5B3) |
+|DamskoRP Onderwereld| Onderwereld discord server van DamskoRP | [Invite](https://discord.gg/9uckJJC7JF) |
