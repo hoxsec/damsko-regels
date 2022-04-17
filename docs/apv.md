@@ -426,9 +426,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 5. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
 7. Overtreding van lid 2 en/of 3 zal resulteren in een minimale straf van de 1e categorie
 
-### Artikel 41 - Campen van een niet actieve drugslocatie
+### Artikel 41 - Campen van een niet actieve drugs, verkoop en witwas locatie.
 
-1. Het campen van een niet actieve drugslocatie is niet toegestaan.
+1. Het campen van een niet actieve drugs, verkoop en witwas op het Eiland is niet toegestaan.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Overige bepalingen
