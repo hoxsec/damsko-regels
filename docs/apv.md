@@ -420,11 +420,11 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 40 - Winkel- en bankovervallen
 
-1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn.
-2. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
-3. Het is niet toegestaan om tussen 01:30 en 02:00 ('s nachts) een bank- of winkeloverval te starten in verband met de restart.
-4. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
-5. Overtreding van lid 2 en/of 3 zal resulteren in een minimale straf van de 1e categorie
+1. Een gijzelaar mag geen kennis of vriend van je zijn, maar moet een onbekend persoon zijn. tenzij je expliciet toestemming hebt van een stafflid.
+3. Het is niet de bedoeling dat elke overval een wild-west-situatie wordt, dus probeer op alle mogelijke manieren eerst een vuurgevecht te vermijden en onderhandel met de politie.
+4. Het is niet toegestaan om 30 minuten voor en na een restart een bank- of winkeloverval te plegen.
+5. Overtreding van lid 1 zal resulteren in een straf van de 4e categorie.
+7. Overtreding van lid 2 en/of 3 zal resulteren in een minimale straf van de 1e categorie
 
 ### Artikel 41 - Campen van een niet actieve drugslocatie
 
@@ -540,9 +540,9 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
     * Enkel dansen als dansers in clubs.
 3. Het overtreden van het feit genoemd in lid 1 zal resulteren in een straf van de 7e categorie.
 
-## Narcopolis
+## Eiland
 
-Onderstaande regels tellen alleen op Narcopolis
+Onderstaande regels tellen alleen op het Eiland
 
 ### Artikel N-1 - Schieten vanaf het vasteland en water
 
@@ -562,14 +562,14 @@ Onderstaande regels tellen alleen op Narcopolis
 1. Het eiland kan niet worden geclaimed door een persoon en of criminele organisatie.
 2. Overtreding van deze regel zal resulteren in een straf van de 2e categorie.
 
-### Artikel N-4 - Campen van een niet actieve drugslocatie
+### Artikel N-4 - Campen van een niet actieve drugs, verkoop en witwas locatie.
 
-1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
+1. Het campen van een niet actieve drugs, verkoop en witwas op het Eiland is niet toegestaan.
 2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ### Artikel N-5 - Samenwerking criminele organisaties
 
-1. Op Narcopolis is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
+1. Op het Eiland is het voor een officiële en onofficiele groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
@@ -578,7 +578,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Artikel T-1 - Uitbreken uit de gevangenis
 
-1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
+1. Het is verboden om tussen 23:00 en 10:00 (realtime) uit de gevangenis te breken.
 2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
@@ -623,4 +623,4 @@ Onderstaande regels tellen alleen op Narcopolis
 ![bijlage-1](img/bijlagen1.webp)
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “DamskoRP”, opgetekend door Bram Mosterdfiets, te DamskoRP.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “DamskoRP”.
